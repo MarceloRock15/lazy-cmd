@@ -1,4 +1,4 @@
-([('main.exe', 'C:\\Projeto cmd\\build\\main\\main.exe', 'EXECUTABLE'),
+([('main.exe', 'C:\\lazy-cmd\\build\\main\\main.exe', 'EXECUTABLE'),
   ('python313.dll',
    'C:\\Users\\marce\\AppData\\Local\\Programs\\Python\\Python313\\python313.dll',
    'BINARY'),
@@ -62,6 +62,4 @@
   ('VCRUNTIME140_1.dll',
    'C:\\Users\\marce\\AppData\\Local\\Programs\\Python\\Python313\\VCRUNTIME140_1.dll',
    'BINARY'),
-  ('base_library.zip',
-   'C:\\Projeto cmd\\build\\main\\base_library.zip',
-   'DATA')],)
+  ('base_library.zip', 'C:\\lazy-cmd\\build\\main\\base_library.zip', 'DATA')],)
